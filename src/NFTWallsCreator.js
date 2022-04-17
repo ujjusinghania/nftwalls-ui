@@ -35,7 +35,7 @@ const NFTWallsCreator = () => {
 				{ skipNull: true, skipEmptyString: true }
 			);
 
-			return `http://34.227.161.251/getWallpaper?${queryParams}`;
+			return `https://api.nftwalls.art/getWallpaper?${queryParams}`;
 		} catch {
 			return undefined;
 		}
