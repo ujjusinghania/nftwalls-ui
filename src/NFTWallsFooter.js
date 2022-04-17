@@ -12,7 +12,7 @@ const NFTWallsFooter = () => {
                 width: "100%",
             }}
 		>
-            <Text weight="bold"></Text>
+            <Text weight="bold">🧱 NFTWalls</Text>
 			<Text weight="bold">made with love 🤍 coffee ☕️ and code 👨🏻‍💻 </Text>
 		</Footer>
 	);

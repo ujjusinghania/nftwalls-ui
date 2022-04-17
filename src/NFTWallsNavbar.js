@@ -1,4 +1,4 @@
-import { Header, Nav, Anchor, Box, Tip } from "grommet";
+import { Header, Nav, Anchor, Box, Tip, Text } from "grommet";
 import { useState } from "react";
 
 const NFTWallsNavbar = () => {
