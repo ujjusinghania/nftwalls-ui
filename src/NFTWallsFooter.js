@@ -13,7 +13,7 @@ const NFTWallsFooter = () => {
             }}
 		>
             <Text weight="bold">🧱 NFTWalls</Text>
-			<Text weight="bold">made with love 🤍 coffee ☕️ and code 👨🏻‍💻 </Text>
+			<Text weight="bold">🤍☕️👨🏻‍💻 </Text>
 		</Footer>
 	);
 };
