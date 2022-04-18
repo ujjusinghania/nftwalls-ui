@@ -1,4 +1,4 @@
-import { Header, Nav, Anchor, Box, Tip, Text } from "grommet";
+import { Header, Nav, Anchor, Box, Tip } from "grommet";
 import { useState } from "react";
 
 const NFTWallsNavbar = () => {
@@ -14,7 +14,7 @@ const NFTWallsNavbar = () => {
 					<Anchor size="large" color="black" label="🙋🏻‍♂️ about" href="/about" />
 				</Box>
 				<Box pad="small" justify="end" round="large">
-					<Tip content="NFTWalls Wallet Address">
+					<Tip content="Click to copy address">
 						<Anchor
 							size="large"
 							color="black"
